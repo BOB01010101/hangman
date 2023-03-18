@@ -1,14 +1,20 @@
-/*
-Create a file named milestone_2.py. This file will contain the code for the first milestone. In Python,
-Lists are used to store multiple data in a single variable. In this task, we are going to create a list of words.
+/* accomplish this task, you will need to use the 'random' module. The random module is one of Python's built-in modules. It has a choice method which returns a random item from a given sequence.
 
-Step 1. Create a list containing the names of your 5 favorite fruits.
+Step 1. Go to the first line of your file.
 
-Step 2. Assign this list to a variable called word_list.
+Step 2. Write import random on the line. Note: To import a module, you have to use the import keyword at the top of the file.
 
-Step 3. Print out the newly created list to the standard output (screen).
+Step 3: Create the random.choice method and pass the word_list variable into the choice method.
+
+Step 4: Assign the randomly generated word to a variable called word.
+
+Step 5: Print out word to the standard output. Run the code several times and observe the words printed out after each run.
 */
+
+import random 
 
 word_list = ["Strawberries", "Blackberries", "Blueberries", "Grapes", "Mango"]
 
-print(word_list)
+word = random.choice(word_list)
+
+print(word)
