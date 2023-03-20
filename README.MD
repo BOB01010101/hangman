@@ -2,7 +2,7 @@
 
 ---
 
-A list containing the author's five favourite foods has been created and assigned to the variable name *word_list*
+A list containing the author's five favourite foods has been created and assigned to the variable named *word_list*
 
 ![image](https://user-images.githubusercontent.com/108944731/226412967-a80005c9-3f50-4681-897f-f6cf16a856c3.png)
 
