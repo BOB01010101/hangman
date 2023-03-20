@@ -28,7 +28,7 @@ The randomly selected fruit was then assigned to a variable named *word*
 Finally, the randomy selected fruit from the list was printed to the screen 
 
 
-# Task 3 - *Asking the user input for an input *
+# Task 3 - *Asking the user input for an input*
 
 ---
 The user is asked to input a single letter when promted to do so. 
