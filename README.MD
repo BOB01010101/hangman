@@ -28,7 +28,7 @@ The randomly selected fruit was then assigned to a variable named *word*
 Finally, the randomy selected fruit from the list was printed to the screen 
 
 
-# Task 3 - * Asking the user input for an input *
+# Task 3 - *Asking the user input for an input *
 
 ---
 The user is asked to input a single letter when promted to do so. 
@@ -40,7 +40,7 @@ The user's input is then stored in a variable named *guess*
 ![image](https://user-images.githubusercontent.com/108944731/226413290-ef817915-1c6c-4d6d-8c42-62512c9a71b5.png)
 
 
-# Task 4 - * Validating the user's input *
+# Task 4 - *Validating the user's input*
 
 --- 
 
