@@ -1,3 +1,7 @@
+# Hangman
+Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
+This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+
 # Task 1 - *Creating a List containing 5 fruits*
 
 ---
@@ -47,6 +51,7 @@ The user's input is then stored in a variable named *guess*
 The user's input is evlaute to check if it contains only one letter from the alphabet using an if statement 
 
 ![image](https://user-images.githubusercontent.com/108944731/226413368-e9731283-b3fb-4980-bd17-af7be8aec354.png)
+
 
 
 
